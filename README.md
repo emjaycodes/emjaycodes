@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/emjaycodes](https://dev.to/emjaycodes)
 
-- 💬 Ask me about **Dart, **
+- 💬 Ask me about **Dart, flutter**
 
 - 📫 How to reach me **justicenwogu8gmail.com**
 
