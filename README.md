@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Dart, flutter**
 
-- 📫 How to reach me **justicenwogu8@gmail.com**
+- 📫 How to reach me **justicethedev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/justice-nwogu-999a74236/](https://www.linkedin.com/in/justice-nwogu-999a74236/)
 
