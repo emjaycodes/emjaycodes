@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Applications**
 
-- 🌱 I’m currently learning **flutter,kotlin**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **open source project within my stack**
 
